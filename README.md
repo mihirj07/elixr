@@ -1,7 +1,8 @@
 <div align="center">
   
 # Elixr AC
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mihirj07/https%3A%2F%2Fgithub.com%2Fmihirj07%2Felixr/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mihirj07/elixr/total)
+
 
 
 ### A lightweight Minecraft Anticheat developed for detecting closet cheating
