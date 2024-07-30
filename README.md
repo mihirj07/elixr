@@ -27,6 +27,8 @@
  2. This is very sensitive and does false flag
  3. This does NOT ban it will only give alerts 
  4. You should be screen sharing to confirm a player is cheating
+## Dependencies
+![Static Badge](https://img.shields.io/badge/ProtocolLib-red?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fdmulloy2%2FProtocolLib%2Freleases%2Fdownload%2F5.2.0%2FProtocolLib.jar)
 ## Steps:
 1. **Download the JAR**:
    - Download the latest release (.jar) from this rep
