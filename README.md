@@ -22,7 +22,11 @@
     - Detects for missed packets
  5. Backtrack
     - Detects for innaccurate packets
-
+## Info
+ 1. This should be used with another anticheeat
+ 2. This is very sensitive and does false flag
+ 3. This does NOT ban it will only give alerts 
+ 4. You should be screen sharing to confirm a player is cheating
 ## Steps:
 1. **Download the JAR**:
    - Download the latest release (.jar) from this rep
