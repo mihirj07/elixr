@@ -4,20 +4,23 @@
 [![Github Release Downloads](https://img.shields.io/github/downloads/:user/https%3A%2F%2Fgithub.com%2Fmihirj07%2Felixr/total
 )]
 
-A lightweight Minecraft Anticheat developed for detecting closet cheating
+### A lightweight Minecraft Anticheat developed for detecting closet cheating
+#### Been in development since June 2023
+##### (Old repository and my account were deleted)
+
 </div>
 
-## Features
+## Detections
  1. Autoclicker
-    - TowerMove
+    - Detects for non-standard deviation in clicking
  2. Velocity
-    - NoSlow
+    - Detects for <95% 
  3. Reach
-    - KillAura
+    - Detects for 3.05+
  4. Blink
-    - NoSlow
+    - Detects for missed packets
  5. Backtrack
-    - KillAura
+    - Detects for innaccurate packets
 
 ## Steps:
 1. **Download the JAR**:
