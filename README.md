@@ -5,7 +5,7 @@
 
 
 
-### A lightweight Minecraft Anticheat developed for detecting closet cheating
+### A lightweight 1.8.9 Minecraft Anticheat developed for detecting closet cheating
 #### Been in development since June 2023
 ##### (Old repository and my account were deleted)
 
