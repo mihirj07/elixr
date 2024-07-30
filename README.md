@@ -6,7 +6,8 @@
 
 A lightweight Minecraft Anticheat developed for detecting closet cheating
 </div>
-### Features
+
+## Features
  1. Autoclicker
     - TowerMove
  2. Velocity
@@ -18,7 +19,7 @@ A lightweight Minecraft Anticheat developed for detecting closet cheating
  5. Backtrack
     - KillAura
 
-### Steps:
+## Steps:
 1. **Download the JAR**:
    - Download the latest release (.jar) from this rep
 
