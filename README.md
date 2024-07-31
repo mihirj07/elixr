@@ -26,7 +26,7 @@
  1. This should be used with another anticheeat
  2. This is very sensitive and does false flag
  3. This does NOT ban it will only give alerts 
- 4. You should be screen sharing to confirm a player is cheating
+ 4. You should be screen sharing to confirm a player is cheating (eg. Echo or Paladin)
 ## Dependencies
 Download ![Static Badge](https://img.shields.io/badge/ProtocolLib-red?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fdmulloy2%2FProtocolLib%2Freleases%2Fdownload%2F5.2.0%2FProtocolLib.jar)
 ## Steps:
